@@ -1,8 +1,10 @@
+![Image](https://github.com/darshanbagul/MIT_6.S094_SelfDrivingCars/blob/master/images/challenge.png)
+
 # MIT_6.S094_SelfDrivingCars
 A repository containing solutions to the challenges presented in the course [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
 
 ## Introduction
-Instructor - Lex Fridman
+**Instructor - Lex Fridman**
 
 The course is an introduction to the active topic of research, that is Self Driving Cars. The course is an excellent introduction for understanding the fundamentals necessary for attempting a solution to the challenge which is autonomous cars. The main topics covered include:
   1. Introduction to Deep Learning and Self Driving Cars along with the moral issues with autonomous cars
