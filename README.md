@@ -26,10 +26,17 @@ We use this Deep-Q Learning algorithm where the AI agent learns to drive a car, 
 DeepTraffic is a gamified simulation of typical highway traffic. Our task is to train a neural network that performs well on high traffic roads. 
 The neural network gets to control one of the cars (displayed in red) and has to learn how to navigate efficiently to go as fast as possible. The network only has to tell the car if it should accelerate/slow down or change lanes, and it will do so if that is possible without crashing into other cars.
 
-I was able to achieve a rank of #8 on the Leaderboard for this challenge using the network I designed. The car reached an average speed of 75.26 mph.
+![Image](https://github.com/darshanbagul/MIT_6.S094_SelfDrivingCars/blob/master/images/seepTraffic.gif)
+
+I was able to achieve a rank of **#8** on the Leaderboard for this challenge using the network I designed. The car reached an average speed of **75.26 mph**.
 
 ## DeepTesla
 
 End-to-end steering describes the driving-related AI task of producing a steering wheel value given an image using convolutional networks.
+
+**Training loss**
+![Image](https://github.com/darshanbagul/MIT_6.S094_SelfDrivingCars/blob/master/images/training_loss.png)
+
+![Image](https://github.com/darshanbagul/MIT_6.S094_SelfDrivingCars/blob/master/images/layer_visualisations.png)
 
 The neural networks are to be trained in the browser using [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) built by Andrej Karpathy.
